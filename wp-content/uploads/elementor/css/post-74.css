@@ -1,0 +1,36 @@
+.elementor-74 .elementor-element.elementor-element-2554f4c{margin-top:0px;margin-bottom:0px;}.elementor-74 .elementor-element.elementor-element-424365b:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-74 .elementor-element.elementor-element-424365b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F2F2F2;}.elementor-74 .elementor-element.elementor-element-424365b > .elementor-element-populated, .elementor-74 .elementor-element.elementor-element-424365b > .elementor-element-populated > .elementor-background-overlay, .elementor-74 .elementor-element.elementor-element-424365b > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-74 .elementor-element.elementor-element-424365b > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-74 .elementor-element.elementor-element-424365b > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-74 .elementor-element.elementor-element-e4ba105 .elementor-menu-toggle{margin:0 auto;}.elementor-74 .elementor-element.elementor-element-e234270:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-74 .elementor-element.elementor-element-e234270 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F2F2F2;}.elementor-74 .elementor-element.elementor-element-e234270 > .elementor-element-populated, .elementor-74 .elementor-element.elementor-element-e234270 > .elementor-element-populated > .elementor-background-overlay, .elementor-74 .elementor-element.elementor-element-e234270 > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-74 .elementor-element.elementor-element-e234270 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-74 .elementor-element.elementor-element-e234270 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-74 .elementor-element.elementor-element-18e4c49.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}.elementor-74 .elementor-element.elementor-element-18e4c49.elementor-wc-products ul.products li.product{border-style:solid;border-width:2px 2px 2px 2px;border-radius:5px;padding:3px 3px 3px 3px;}.elementor-74 .elementor-element.elementor-element-18e4c49.elementor-wc-products ul.products li.product span.onsale{display:block;}@media(min-width:768px){.elementor-74 .elementor-element.elementor-element-424365b{width:18.332%;}.elementor-74 .elementor-element.elementor-element-cec333a{width:2.385%;}.elementor-74 .elementor-element.elementor-element-e234270{width:78.947%;}}@media(max-width:1024px){.elementor-74 .elementor-element.elementor-element-18e4c49.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}@media(max-width:767px){.elementor-74 .elementor-element.elementor-element-18e4c49.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}/* Start custom CSS for sidebar, class: .elementor-element-a492ce3 */li.wc-block-product-categories-list-item{
+    font-size: 20px;
+}
+span.gamma.widget-title{
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: -15px
+}
+.woocommerce-widget-layered-nav{
+    margin-bottom: -20px;
+}
+.widget_price_filter{
+    margin-bottom: -20px;
+    margin:5px;
+}
+.sidebar{
+    height: 540px;
+    overflow: auto;
+}
+.price_label{
+    font-size: 14px;
+    font-weight: 600;
+}/* End custom CSS */
+/* Start custom CSS for wc-archive-products, class: .elementor-element-18e4c49 */ul.products li.product .button {
+    background: #AEAAAA50 !important;
+    border-radius: 10px !important;
+}
+.woocommerce-pagination .page-numbers {
+        margin-top: -25px;
+}
+.storefront-sorting {
+    margin-top: 10px;
+}
+h2.woocommerce-loop-product__title{
+    height: 40px;
+}/* End custom CSS */

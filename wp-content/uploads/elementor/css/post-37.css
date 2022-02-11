@@ -1,0 +1,13 @@
+.elementor-37 .elementor-element.elementor-element-e17ba65 .elementor-heading-title{color:#000000;font-family:"Roboto", Sans-serif;font-size:30px;font-weight:600;}.woocommerce .elementor-37 .elementor-element.elementor-element-b919c5a .price{color:#000000;}.elementor-37 .elementor-element.elementor-element-9f8049b .cart button{transition:all 0.2s;}.elementor-37 .elementor-element.elementor-element-9f8049b .quantity .qty{transition:all 0.2s;}.elementor-37 .elementor-element.elementor-element-8e6642c.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}.elementor-37 .elementor-element.elementor-element-8e6642c.elementor-wc-products ul.products li.product .button{border-radius:0px 0px 0px 0px;}.elementor-37 .elementor-element.elementor-element-8e6642c.elementor-wc-products ul.products li.product{border-style:solid;border-width:2px 2px 2px 2px;border-radius:4px;padding:2px 2px 2px 2px;}.elementor-37 .elementor-element.elementor-element-8e6642c.elementor-wc-products ul.products li.product span.onsale{display:block;}@media(max-width:1024px){.elementor-37 .elementor-element.elementor-element-8e6642c.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}@media(max-width:767px){.elementor-37 .elementor-element.elementor-element-8e6642c.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}/* Start custom CSS for woocommerce-product-related, class: .elementor-element-8e6642c */ul.products li.product .button {
+    background: #AEAAAA50 !important;
+    border-radius: 10px !important;
+}
+.woocommerce-pagination .page-numbers {
+        margin-top: -25px;
+}
+.storefront-sorting {
+    margin-top: 10px;
+}
+h2.woocommerce-loop-product__title{
+    height: 40px;
+}/* End custom CSS */
